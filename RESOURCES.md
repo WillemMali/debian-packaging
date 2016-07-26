@@ -2,7 +2,7 @@
 
 Learning resources related to Debian packaging.
 
-
+* [New maintainers guide](https://www.debian.org/doc/manuals/maint-guide/)
 * [Creating a Debian package](https://www.debian.org/doc/manuals/debian-handbook/debian-packaging.ro.html)
   * [Rebuilding a package from its sources](https://www.debian.org/doc/manuals/debian-handbook/debian-packaging.ro.html#sect.rebuilding-package)
   * [Building your first package](https://www.debian.org/doc/manuals/debian-handbook/sect.building-first-package.ro.html)
